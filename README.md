@@ -4,6 +4,13 @@ Esse repositório contém o projeto Unity onde criamos um inimigo estilo o Thwom
 <br>
 Quando o jogador se aproxima, o inimigo desce ao chão, espera X segundos, e volta para cima.
 <br>
+<br>
+  - Se quiser o projeto finalizado, ele está no branch "main".
+<br>
+  - Se quiser o projeto a partir do ponto onde iniciamos o tutorial, ele está no branch "projeto-inicial".
+<br>
+<br>
+
 Assista ao tutorial <a href="https://youtu.be/iC2hyM9d1n8">clicando aqui</a>
 
 
