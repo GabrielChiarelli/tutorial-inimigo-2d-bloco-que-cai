@@ -1,4 +1,4 @@
-<h1>Movimentação 2D Simples [Tutorial YouTube]</h1>
+<h1>Inimigo que desce quando o jogador se aproxima (Thwomp) [Tutorial YouTube]</h1>
 <hr>
 Esse repositório contém o projeto Unity onde criamos um inimigo estilo o Thwomp do Super Mario Bros.
 <br>
